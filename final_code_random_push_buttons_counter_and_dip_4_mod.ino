@@ -15,7 +15,7 @@ int switch1 = 0;
 int switch2 = 0;
 int switch3 = 0;
 int switch4 = 0;
-//Setting שuxiliary variables for the function and screen
+//Setting uxiliary variables for the function and screen
 int current = 0;
 int prev = 0;
 int counter = 0;
